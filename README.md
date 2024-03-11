@@ -6,7 +6,7 @@ Here, I have showcased how we can use a python environment to control our Verilo
 
 ## Files:
 
-**test.py :** It evokes all the other files using Python's **os** library and **Iverilog**(https://github.com/steveicarus/iverilog) as a simulator for Verilog files.
+**test.py :** It evokes all the other files using Python's **os** library and [**Iverilog**'](https://github.com/steveicarus/iverilog) as a simulator for Verilog files.
 
 **tb.v :** It's the main testbench for the ALU, and selects the operation out of the three(ADD, MUL, DIV) in the ALU.v.
 
@@ -14,7 +14,7 @@ Here, I have showcased how we can use a python environment to control our Verilo
 
 **BinaryFun.py :** The encoding function for Python to generate the test cases.
 
-**CodeCoverage_report.log :** shows the usage of each conditional operators in the **ALU.v file**.
+**CodeCoverage_report.log :** using [Covered](https://github.com/chiphackers/covered)shows the usage of each conditional operators in the **ALU.v file**.
 
 ## Errors:
 

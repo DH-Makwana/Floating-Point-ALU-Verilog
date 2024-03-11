@@ -22,6 +22,10 @@ Here, I have showcased how we can use a python environment to control our Verilo
 
 <img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/8e5e1ab3-3b7a-45c1-aeb7-6631b95c5eaf" width="350">
 
+### MUL:
+<img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/094b1e35-55da-4151-9d56-7493bb43eba7" width="350">
+
+<img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/20cbd64a-7a98-4149-b089-17e6534f0c80" width="350">
 
 ## Errors:
 

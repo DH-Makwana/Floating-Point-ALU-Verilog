@@ -17,4 +17,6 @@ Here, I have showcased how we can use a python environment to control our Verilo
 **CodeCoverage_report.log :** shows the usage of each conditional operators in the **ALU.v file**.
 
 ## Errors:
-<img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/Error in ALU.png">
+
+
+<img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/bf877f34-0a20-4b07-a4f4-8864bd9244c8">

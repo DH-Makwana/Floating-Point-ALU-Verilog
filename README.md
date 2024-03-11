@@ -6,7 +6,7 @@ Here, I have showcased how we can use a python environment to control our Verilo
 
 ## Files:
 
-**test.py :** It evokes all the other files using Python's **os** library and **Iverilog** as a simulator for Verilog files.
+**test.py :** It evokes all the other files using Python's **os** library and **Iverilog**(https://github.com/steveicarus/iverilog) as a simulator for Verilog files.
 
 **tb.v :** It's the main testbench for the ALU, and selects the operation out of the three(ADD, MUL, DIV) in the ALU.v.
 

@@ -18,12 +18,11 @@ Here, I have showcased how we can use a python environment to control our Verilo
 
 ## Results:
 ### ADD:
-![Sin_plus_Squar_with_IntReal](https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/44987b89-f136-4a7d-b925-0db0bfb1ee63)
+<img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/44987b89-f136-4a7d-b925-0db0bfb1ee63" width="350">
 
-![Sin_minus_Squar_with_IntReal](https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/8e5e1ab3-3b7a-45c1-aeb7-6631b95c5eaf)
-
+<img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/8e5e1ab3-3b7a-45c1-aeb7-6631b95c5eaf" width="350">
 
 
 ## Errors:
 
-<img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/bf877f34-0a20-4b07-a4f4-8864bd9244c8">
+<img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/bf877f34-0a20-4b07-a4f4-8864bd9244c8" width="350">

@@ -17,12 +17,12 @@ Here, I have showcased how we can use a python environment to control our Verilo
 **CodeCoverage_report.log :** using [Covered](https://github.com/chiphackers/covered) shows the usage of each conditional operators in the **ALU.v file**.
 
 ## Results:
-### ADD:
+### Addition:
 <img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/44987b89-f136-4a7d-b925-0db0bfb1ee63" width="350">
 
 <img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/8e5e1ab3-3b7a-45c1-aeb7-6631b95c5eaf" width="350">
 
-### MUL:
+### Multiplication:
 <img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/094b1e35-55da-4151-9d56-7493bb43eba7" width="350">
 
 <img src="https://github.com/DH-Makwana/Floating-Point-ALU-Verilog/assets/107695582/20cbd64a-7a98-4149-b089-17e6534f0c80" width="350">
